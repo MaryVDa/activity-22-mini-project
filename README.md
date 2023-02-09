@@ -1,1 +1,1 @@
-# module-2-challenge
+# activity-22-mini-project
